@@ -529,6 +529,9 @@ h6 {
   color: inherit;
   text-rendering: optimizelegibility;
 }
+h2 {
+    margin: 20px;
+}
 h1 small,
 h2 small,
 h3 small,
