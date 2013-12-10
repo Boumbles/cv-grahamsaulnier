@@ -23,3 +23,4 @@ A while back I had read about a self-rating system that may or may not have orig
  * I've thought about adding some kind of database system to handle all the information, then I can more easily turn things on/off. 
 * Dynamic sections
  * Maybe let users chose what they want to see
+* French version
